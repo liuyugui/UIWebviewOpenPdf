@@ -1,5 +1,5 @@
 # UIWebviewOpenPdf
-用UIWebvoew打开pdf，并相应自定义手势
+用UIWebvoew打开pdf，并响应自定义手势
 
 
  NSString *path = [[NSBundle mainBundle] pathForResource:@"test.pdf" ofType:nil];  
